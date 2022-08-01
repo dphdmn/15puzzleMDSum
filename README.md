@@ -13,3 +13,6 @@ That example is for 6x6 puzzle, you can also use scrambles with space instead of
 The size of the puzzle is parsed by the amount of elements.
 
 No checking for valid or invalid input, check that before using this function.
+
+
+>Manhattan distance is a distance metric between two points in a N dimensional vector space. It is the sum of the lengths of the projections of the line segment between the points onto the coordinate axes. In simple terms, it is the sum of absolute difference between the measures in all dimensions of two points
